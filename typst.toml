@@ -2,7 +2,7 @@
 name = "ttt"
 version = "0.1.0"
 compiler = "0.11.1"
-entrypoint = "template.typ"
+entrypoint = "ttt.typ"
 repository = "https://github.com/matthiasbeyer/ttt"
 authors = ["Matthias Beyer <mail@beyermatthias.>"]
 license = "MIT-0"
