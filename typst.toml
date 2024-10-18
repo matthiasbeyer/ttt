@@ -1,0 +1,15 @@
+[package]
+name = "ttt"
+version = "0.1.0"
+compiler = "0.11.1"
+entrypoint = "template.typ"
+repository = "https://github.com/matthiasbeyer/ttt"
+authors = ["Matthias Beyer <mail@beyermatthias.>"]
+license = "MIT-0"
+description = "Minimal template for class notes or transcripts"
+keywords = ["notes", "script", "report", "non-fiction", "class", "lecture"]
+categories = ["report"]
+
+[template]
+path = "template"
+entrypoint = "example.typ"
